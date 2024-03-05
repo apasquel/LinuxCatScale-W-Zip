@@ -8,6 +8,7 @@ Linux CatScale is a bash script that uses live of the land tools to collect exte
 - [Disclaimer](#disclaimer)
 - [Tested OSes](#tested-oses)
 
+Forked to support ZIP option instead of tar.gz output files to aid analysts on windows machines analyzing linux hosts. 
 
 ## Usage
 
